@@ -12,7 +12,7 @@ For more information, checkout the project [website](https://cvlab.postech.ac.kr
 * Python 3.6.8
 * PyTorch 1.0.1
 * TorchVison: 0.2.2
-* Spatial [Correlation Sampler](https://github.com/ClementPinard/Pytorch-Correlation-extension.git)
+* [Spatial Correlation Sampler](https://github.com/ClementPinard/Pytorch-Correlation-extension.git)
 * Others: [environment.yml](https://github.com/arunos728/SELFY/blob/master/environment.yml)
 
 ### Anaconda environment setting
@@ -58,7 +58,7 @@ The path of the file lists should be added into the scripts for training (or tes
 ```
 
 ### Citation
-<!-- If you use this code or ideas from the paper for your research, please cite our paper:
+If you use this code or ideas from the paper for your research, please cite our paper:
 ```
 @inproceedings{kwon2021learning,
   title={Learning self-similarity in space and time as generalized motion for video action recognition},
@@ -67,7 +67,7 @@ The path of the file lists should be added into the scripts for training (or tes
   pages={13065--13075},
   year={2021}
 }
-``` -->
+```
 
 ### Contact
 Heeseung Kwon(aruno@postech.ac.kr), Manjin Kim(mandos@postech.ac.kr)
