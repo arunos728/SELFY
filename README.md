@@ -4,7 +4,7 @@
 <img src="./img/SELFYBlock.jpg" width="100%" height="100%" alt="SELFY_block"></img>
 ***
 This is the official implementation of the paper "Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition" by H.Kwon, M.Kim, S.Kwak, and M.Cho.
-For more information, checkout the project [website](http://http://cvlab.postech.ac.kr/research/SELFY/) and the paper on [arXiv](https://https://arxiv.org/abs/2102.07092).
+For more information, checkout the project [website](https://cvlab.postech.ac.kr/research/SELFY/) and the paper on [arXiv](https://arxiv.org/abs/2102.07092).
 
 ### Environment:
 * Cuda: 9.0
