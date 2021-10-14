@@ -12,7 +12,7 @@ For more information, checkout the project [website](http://http://cvlab.postech
 * Python 3.6.8
 * PyTorch 1.0.1
 * TorchVison: 0.2.2
-* Spatial Correlation Sampler (https://github.com/ClementPinard/Pytorch-Correlation-extension.git)
+* Spatial [Correlation Sampler](https://github.com/ClementPinard/Pytorch-Correlation-extension.git)
 * Others: [environment.yml](https://github.com/arunos728/SELFY/blob/master/environment.yml)
 
 ### Anaconda environment setting
@@ -42,7 +42,7 @@ Please check this [repo](https://github.com/ClementPinard/Pytorch-Correlation-ex
 
 Please refer to [TSM repo](https://github.com/mit-han-lab/temporal-shift-module) for the detailed data preparation instructions.
 
-File lists (.txt files in [data](https://github.com/arunos728/SELFY/tree/master/data)) specify configurations of each video clips (path, #frames, class). We upload our Something-Something-V1 & V2 video file lists in [data](https://github.com/arunos728/SELFY/tree/master/data).
+File lists (.txt files in [./data](https://github.com/arunos728/SELFY/tree/master/data)) specify configurations of each video clips (path, #frames, class). We upload our Something-Something-V1 & V2 video file lists in [./data](https://github.com/arunos728/SELFY/tree/master/data).
 The path of the file lists should be added into the scripts for training (or testing).
 
 ### Training & Testing
