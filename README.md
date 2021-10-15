@@ -47,7 +47,7 @@ The path of the file lists should be added into the scripts for training (or tes
 
 ### Training & Testing
 
-* For training TSM or MSNet on Something-v1, use the following command:
+* For training SELFYNet on Something-v1, use the following command:
 ```bash
     ./scripts/train_SELFY_Something.sh
 ```
